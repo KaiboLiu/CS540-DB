@@ -1,3 +1,5 @@
+## Database Management project  
+![](https://img.shields.io/badge/language-python-orange.svg)  
 just run
 ```python
 python Run_cs540.py
